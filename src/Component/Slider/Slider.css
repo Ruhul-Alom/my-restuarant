@@ -1,0 +1,8 @@
+.background-image{
+    margin-top: 10px;
+    width: 100%;
+    background-image: url('../images/bacground-image.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
