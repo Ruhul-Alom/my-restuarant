@@ -1,5 +1,6 @@
 import React from 'react'
 const OneCatagoryAllFood=(props)=>{
+
     const{idMeal,strMealThumb,strMeal}=props.fcd;
     return(
         <>
